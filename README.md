@@ -1,2 +1,3 @@
-# ChurchApp2
-Mathikere JSO Church App
+# church_app
+
+A new Flutter project.
